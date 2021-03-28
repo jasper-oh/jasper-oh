@@ -2,7 +2,7 @@
 
 </hr>
 
-#### Keeping up with those lang
+#### 🔥Keeping up with those lang
   
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)](https://python.org/)
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black)](http://java.com/)
@@ -12,7 +12,7 @@
 
 
 
-#### Keeping up with those FrameWork
+#### 🔥Keeping up with those FrameWork
 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black)](http://spring.io/)
 [![React Badge](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](http://reactjs.org/)
