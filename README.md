@@ -1,18 +1,19 @@
 ## Jasper Oh (Yeong Jun Oh)
 
-</hr>
+
+
 
 👨‍💻 Discovering my strength ( Web vs App )
 
 🗣 ✍️ Korean, English
 
-</hr>
+<hr></hr>
 
 🏠 [My humble Blog](jasper-infinity.tistory.com) </br>
 
 📧 EMAIL : ohyj0906@gmail.com
 
-</hr>
+<hr></hr>
 
 #### 🔥Keeping up with those lang
   
@@ -29,7 +30,7 @@
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black)](http://spring.io/)
 [![React Badge](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](http://reactjs.org/)
 
-</hr>
+<hr></hr>
 
 
 ![github status](https://github-readme-stats.vercel.app/api?username=jasper-oh)
