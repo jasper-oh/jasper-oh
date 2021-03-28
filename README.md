@@ -9,7 +9,7 @@
 
 <hr></hr>
 
-🏠 [My humble Blog](jasper-infinity.tistory.com) </br>
+🏠 [My humble Blog](https://jasper-infinity.tistory.com) </br>
 
 📧 EMAIL : ohyj0906@gmail.com
 
