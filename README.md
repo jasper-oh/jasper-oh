@@ -2,6 +2,18 @@
 
 </hr>
 
+👨‍💻 Discovering my strength ( Web vs App )
+
+🗣 ✍️ Korean, English
+
+</hr>
+
+🏠 [My humble Blog](jasper-infinity.tistory.com) </br>
+
+📧 EMAIL : ohyj0906@gmail.com
+
+</hr>
+
 #### 🔥Keeping up with those lang
   
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)](https://python.org/)
