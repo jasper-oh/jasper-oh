@@ -30,6 +30,12 @@
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black)](http://spring.io/)
 [![React Badge](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](http://reactjs.org/)
 
+
+#### 🔥Keeping up with those Tool
+
+[![AndroidStudio Badge](https://img.shields.io/badge/Androidstudio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)](http://developer.android.com/)
+[![Xcode Badge](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=black)](http://developer.apple.com/)
+
 <hr></hr>
 
 
