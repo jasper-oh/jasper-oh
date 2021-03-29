@@ -13,6 +13,9 @@
 
 📧 EMAIL : ohyj0906@gmail.com
 
+![Notion Badge](https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black) : [Notion Home](https://www.notion.so/This-is-Jasper-s-HomePage-7fdeef5c9bc94161beefb2139b3263d4)
+
+
 <hr></hr>
 
 #### 🔥Keeping up with those lang
