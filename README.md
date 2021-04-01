@@ -15,6 +15,7 @@
 
 ![Notion Badge](https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black) : [Notion Home](https://www.notion.so/This-is-Jasper-s-HomePage-7fdeef5c9bc94161beefb2139b3263d4)
 
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=leetcode&logoColor=black)
 
 <hr></hr>
 
