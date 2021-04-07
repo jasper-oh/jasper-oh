@@ -2,10 +2,11 @@
 
 
 
-
 👨‍💻 Discovering my strength ( Web vs App )
 
 🗣 ✍️ Korean, English
+
+❤️ Git LOVER
 
 <hr></hr>
 
