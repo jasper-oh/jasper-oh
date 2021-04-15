@@ -8,7 +8,7 @@
 
 ❤️ Git LOVER
 
-<hr></hr>
+---
 
 🏠 [My humble Blog](https://jasper-infinity.tistory.com) </br>
 
@@ -18,7 +18,7 @@
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=leetcode&logoColor=black)
 
-<hr></hr>
+---
 
 #### 🔥Keeping up with those lang
   
@@ -46,7 +46,7 @@
 
 
 
-<hr></hr>
+---
 
 
 ![github status](https://github-readme-stats.vercel.app/api?username=jasper-oh)
