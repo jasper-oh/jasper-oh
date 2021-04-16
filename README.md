@@ -27,7 +27,7 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://javascript.info/)
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=black)](http://kotlinlang.org/)
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)](http://golang.org/)
-[![Rust Badge](https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black)](http://rust.org/)
+[![Rust Badge](https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)
 
 
 
