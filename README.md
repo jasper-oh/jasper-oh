@@ -6,8 +6,6 @@
 
 🗣 ✍️ Korean, English
 
-❤️ Git LOVER
-
 ---
 
 🏠 [My humble Blog](https://jasper-infinity.tistory.com) </br>
