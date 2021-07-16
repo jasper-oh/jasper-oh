@@ -30,8 +30,8 @@
 #### 🔥Keeping up with those FrameWork
 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](http://spring.io/)
-[![Node Badge](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](http://spring.io/)
-[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)](http://reactjs.org/)
+[![Node Badge](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](http://node.io/)
+[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)](http://django.org/)
 [![React Badge](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)](http://reactjs.org/)
 
 
