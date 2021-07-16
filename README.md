@@ -47,7 +47,7 @@
 
 ---
 
-#### 🙋‍♂️ Contact to Jasper
+#### 🙋‍♂️ CONTACT to Jasper
 
 [![Gmail Badge](https://img.shields.io/badge/Contact_👉_Jasper_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohyj0906@gmail.com)
 
